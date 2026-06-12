@@ -3,12 +3,18 @@ O objetivo do nosso trabalho é desenvolver um sistema de gestão de base de dad
 
 # relatórios:
 relatório de especificação da informação.
+
 relatório de especificação de base de dados.
 
 # tecnologias:
 Microsoft Word;
+
 Dia;
+
 Wamp server;
+
 MySQL WorkBench;
+
 Node.js;
+
 LoopBack 4;
