@@ -53,5 +53,12 @@ ResponsavelPelo (TOSADOR, SERVIÇO_ESTETICO) 1:N	T:T
 * não pode existir uma marcação de consulta sem um animal e um médico atribuito,
 * A hora de qualquer consulta, serviço estético ou cirurgia deve obrigatoriamente estar dentro do horário de funcionamento da clícica. Um único médico não pode ter duas marcaçãoes no mesmo horário.
 * Um animal só pode receber determinadas vacinas se a sua idade calculada for maior a 3 meses.
+
+Nome	Descrição	Domínio	Por Omissão	Automático	Nulo
+id_registo	Identificador do histórico	INT, PRIMARY KEY, AUTO_INCREMENT	-	Sim	Não
+notas_clinicas	Observações do médico	TEXT	-	Não	Sim
+id_animal	Animal intervencionado	INT, FOREIGN KEY → Animal(id_animal) NOT NULL	-	Não	Não
+id_acao	Procedimento médico aplicado	INT, FOREIGN KEY → Acao_Medica(id_acao) NOT NULL	-	Não	Não
+id_consulta	Consulta de origem do tratamento	INT, FOREIGN KEY → Consulta(id_consulta) NOT NULL	-	Não	Não
   
 
