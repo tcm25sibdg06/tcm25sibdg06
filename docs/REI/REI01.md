@@ -2,7 +2,7 @@
 
 As opções disponíveis no sistema de gestão da clínica veterinária dependerão do tipo de utilizador autenticado. Embora a distinção entre os diferentes utilizadores não seja rígida, foram definidos vários perfis principais com permissões distintas mas complementares para o funcionamento do sistema de gestão clínica veterinária.
 
-Rcecionista da Clínica
+**Rececionista da Clínica**
 
 Responsável pela gestão administrativa e pelo primeiro contacto com os clientes. Gere o atendimento presencial, o registo de dados e o agendamento de consultas, garantindo o correto encaminhamento dos casos para a equipa clínica.
 
