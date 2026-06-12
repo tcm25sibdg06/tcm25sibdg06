@@ -35,22 +35,26 @@ Verificação de registos existentes de donos e animais no sistema.
 Agendamento de consultas, incluindo tipo (rotina ou emergência), data, hora, motivo e médico veterinário responsável.
 Gestão da chegada dos clientes e organização do fluxo de atendimento.
 Atualização do estado das consultas (Agendada, Em_Curso, Concluída, Cancelada).
+
 **Médico Veterinário**
 Consulta do histórico clínico completo dos animais (consultas anteriores, tratamentos, vacinas e alergias).
 Registo de diagnósticos, tratamentos prescritos e recomendações clínicas.
 Indicação de necessidade de exames complementares ou cirurgias.
 Acompanhamento das consultas atribuídas.
 Consulta de informação detalhada dos pacientes e respetivos donos.
+
 **Enfermeiro Veterinário / Auxiliar Clínico**
 Administração de vacinas e registo no sistema e no caderno de vacinação do animal (data, tipo de vacina e próxima dose).
 Apoio em consultas, tratamentos e procedimentos cirúrgicos.
 Preparação de material clínico e assistência ao médico veterinário.
 Registo de procedimentos de suporte realizados.
+
 **Tosador (Serviços Estéticos)**
 Registo e execução de serviços estéticos (banho, tosquia, corte de unhas).
 Associação dos serviços ao animal e ao funcionário responsável.
 Gestão da lista de serviços realizados e respetivos agendamentos.
 Consulta do histórico de serviços estéticos por animal.
+
 **Gestor da Clínica**
 Consulta de relatórios de atividade (consultas realizadas, vacinas administradas e serviços prestados).
 Acompanhamento do desempenho dos funcionários e ocupação de horários.
