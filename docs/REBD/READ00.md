@@ -2,7 +2,7 @@ Esquema Relacional
 
 Tabelas
 
-Doutor
+Medico
 
 Regista os doutores da clinica, incluindo os seus dados de contacto.
 
@@ -43,6 +43,7 @@ Enfermeiro
 
 | Nome |	Descriçao|	Dominio	| Por Omissão	| Automatico |	Nulo |
 |------|-----------|----------|-------------|------------|-------|
+
 
 
 
