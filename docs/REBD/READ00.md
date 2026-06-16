@@ -8,8 +8,7 @@ Regista os doutores da clinica, incluindo os seus dados de contacto.
 
 | Nome |	Descriçao|	Dominio	| Por Omissão	| Automatico |	Nulo |
 |------|-----------|----------|-------------|------------|-------|
-
-Id 	Identificador único do médico	INT, PK, AUTO_INCREMENT	_	sim	não
+| Id 	 |Identificador único do médico	| INT, PK, AUTO_INCREMENT|	_	|sim |não|
 nome	Nome do médico	VARCHAR(100)
 NN	_	não	não
 dataNascimento	Data de nascimento do medico	VARCHAR(100)	_	não	não
